@@ -1,7 +1,7 @@
 # ShaderToy-Touchdesigner
 ## Licensing
 
-This repository contains my ports of shaders from [Shadertoy](https://www.shadertoy.com/) to [TouchDesigner](https://derivative.ca/) into a tox component.  
+This repository contains my porting of shaders from [Shadertoy](https://www.shadertoy.com/) to [TouchDesigner](https://derivative.ca/) into a tox component.  
 Each shader respects the license of the original author, which is included in the corresponding folder.
 
 ### REMINDER
